@@ -2,7 +2,7 @@
 
 ## Şu Anda Aldığım Eğitimler
 
-### [](https://patika.dev/paths/baslangic-seviye-frontend-web-development-patikasi) Başlangıç Seviye Frontend Web Development Patikası
+### [Başlangıç Seviye Frontend Web Development Patikası](https://patika.dev/paths/baslangic-seviye-frontend-web-development-patikasi)
 - Herkes İçin Temel Dersler `100%`
 - Visual Studio Code Kullanımı `100%`
 - GIT `100%`
