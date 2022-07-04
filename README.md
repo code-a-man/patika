@@ -6,8 +6,8 @@
 - Herkes İçin Temel Dersler `100%`
 - Visual Studio Code Kullanımı `100%`
 - GIT `100%`
-- **HTML** `90%`
-- CSS `0%`
+- HTML `100%`
+- **CSS** `0%`
 - Bootstrap `0%`
 - Veri Yapıları ve Algoritmalar `0%`
 - JavaScript `0%`
