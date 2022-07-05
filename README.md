@@ -7,7 +7,7 @@
 - Visual Studio Code Kullanımı `100%`
 - GIT `100%`
 - HTML `100%`
-- **CSS** `0%`
+- **CSS** `45%`
 - Bootstrap `0%`
 - Veri Yapıları ve Algoritmalar `0%`
 - JavaScript `0%`
