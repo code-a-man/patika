@@ -1,0 +1,54 @@
+*{
+	text-align: -webkit-center;
+}
+
+img {
+	width: 351px;
+	display: block;
+}
+
+table {
+	display: table;
+	margin: 0 auto 0 auto;
+}
+
+.search-container{
+	
+	width: 1653px;
+	background-color: #EEEEEE;
+	
+}
+tr {
+	border: 3px solid #FFFFFF;
+	border-spacing: 2px;
+}
+.searches{
+	width: 37%;
+	background-color: #7ee5da;
+}
+
+.links{
+	font-size: small;
+	background-color: #70ccc2;
+}
+
+.mail{
+	font-size: small;
+	align-self: right;
+	background-color: #62b3aa;
+}
+
+.searchbar {
+	display: block;
+	box-sizing: border-box;
+	width: 317px;
+}
+
+.cpy{
+	margin: 20px;
+	font-size: small;
+}
+p {
+    display: block;
+    margin: 0;
+}
