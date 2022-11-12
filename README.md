@@ -3,6 +3,7 @@
 ## Şu Anda Aldığım Eğitimler
 
 ### [Başlangıç Seviye Frontend Web Development Patikası](https://app.patika.dev/paths/baslangic-seviye-frontend-web-development-patikasi)
+
 - Herkes İçin Temel Dersler `100%`
 - Visual Studio Code Kullanımı `100%`
 - GIT `100%`
@@ -12,5 +13,4 @@
 - Veri Yapıları ve Algoritmalar `0%`
 - JavaScript `0%`
 
-
-###### Not: Repoyu ödev yükledikçe veya gün sonunda güncellemeyi düşünüyorum.
+#### Not: Repoyu ödev yükledikçe veya gün sonunda güncellemeyi düşünüyorum
