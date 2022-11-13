@@ -18,7 +18,7 @@
 - Herkes İçin Temel Dersler `100%`
 - Visual Studio Code Kullanımı `100%`
 - GIT `100%`
-- Veri Yapıları ve Algoritmalar `6%`
+- Veri Yapıları ve Algoritmalar `66%`
 - Javascript `100%`
 - SQL `0%`
 - İleri Seviye GIT `0%`
