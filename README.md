@@ -8,10 +8,10 @@
 - Visual Studio Code Kullanımı `100%`
 - GIT `100%`
 - HTML `100%`
-- **CSS** `81%`
+- **CSS** `90%`
 - Bootstrap `0%`
-- Veri Yapıları ve Algoritmalar `0%`
-- JavaScript `0%`
+- Veri Yapıları ve Algoritmalar `66%`
+- JavaScript `100%`
 
 ### [Node.js ile Backend Patikası](https://app.patika.dev/paths/nodejs-ile-backend-patikasi)
 
