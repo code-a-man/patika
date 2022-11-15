@@ -23,7 +23,7 @@
 - SQL `0%`
 - İleri Seviye GIT `0%`
 - Yazılım Dünyasında Kariyer Basamakları `0%`
-- Node.js `5%`
+- Node.js `13%`
 - REST API `0%`
 - GraphQL `0%`
 - Deployment `0%`
