@@ -10,7 +10,7 @@
 - HTML `100%`
 - **CSS** `90%`
 - Bootstrap `0%`
-- Veri Yapıları ve Algoritmalar `66%`
+- Veri Yapıları ve Algoritmalar `70%`
 - JavaScript `100%`
 
 ### [Node.js ile Backend Patikası](https://app.patika.dev/paths/nodejs-ile-backend-patikasi)
@@ -18,7 +18,7 @@
 - Herkes İçin Temel Dersler `100%`
 - Visual Studio Code Kullanımı `100%`
 - GIT `100%`
-- Veri Yapıları ve Algoritmalar `66%`
+- Veri Yapıları ve Algoritmalar `70%`
 - Javascript `100%`
 - SQL `0%`
 - İleri Seviye GIT `0%`
