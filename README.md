@@ -8,8 +8,8 @@
 - Visual Studio Code Kullanımı `100%`
 - GIT `100%`
 - HTML `100%`
-- **CSS** `90%`
-- Bootstrap `0%`
+- CSS `100%`
+- **Bootstrap** `0%`
 - Veri Yapıları ve Algoritmalar `90%`
 - JavaScript `100%`
 
